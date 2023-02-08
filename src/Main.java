@@ -3,6 +3,6 @@ public class Main {
 
         System.out.println("Hello Clarusway Team!");
         System.out.print("I created first java project and pushed to Github");
-        System.out.print("hello")
+        return System.out.print("hello");
     }
 }
